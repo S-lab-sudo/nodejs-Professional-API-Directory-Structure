@@ -1,5 +1,5 @@
 # USAGES:-
-node creator.js <directory_Name> <modules_seperated_with_spaces>
+node creator.js <directory_Name> <modules_seperated_with_spaces> \n
 e.g node creator.js firstBackendProject express nodemon bcrypt
 # What it creates by default:
 creates directory with directory_Name
